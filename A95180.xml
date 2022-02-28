@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of some notable passages faithfully performed on the coasts of England and Ireland, by some of the ships under the command of the Right Honorable Robert Earle of VVarvvick for the service of King and Parliament. As it was certified by two letters sent to the honorable committee for the navy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95180</idno>
+            <idno type="STC">Wing T2917</idno>
+            <idno type="STC">Thomason E59_17</idno>
+            <idno type="STC">ESTC R3252</idno>
+            <idno type="EEBO-CITATION">99872325</idno>
+            <idno type="PROQUEST">99872325</idno>
+            <idno type="VID">155293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155293)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E59[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of some notable passages faithfully performed on the coasts of England and Ireland, by some of the ships under the command of the Right Honorable Robert Earle of VVarvvick for the service of King and Parliament. As it was certified by two letters sent to the honorable committee for the navy.</title>
+                  <author>Perlunkett, Thomas.</author>
+                  <author>Moulton, Robert.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Francis Leach, for Lawrance Blackelock, and are to bee [sic] sold at his shop at Temple-Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly the 8. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First letter signed: Tho. Perlunkett.</note>
+                  <note>Second letter signed: Robert Moulton.</note>
+                  <note>reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  Committee of the Navy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155293:1" rendition="simple:additions"/>
+            <p>A true relation of ſome no<g ref="char:EOLhyphen"/>table paſſages faithfully performed on the Coaſts of <hi>ENGLAND</hi> and <hi>IRELAND,</hi>
+            </p>
+            <p>By ſome of the ſhips under the com<g ref="char:EOLhyphen"/>mand of the Right Honorable <hi>Robert</hi> EARLE OF VVARVVICK For the ſervice of KING and PARLIAMENT.</p>
+            <p>As it was certified by two Letters ſent to the Honorable Committee for the Navy.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Francis Leach,</hi> for <hi>Lawrance Blackelock,</hi> and are to bee ſold at his ſhop at <hi>Temple-Barre, Iuly</hi> the 8. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155293:2"/>
+            <pb facs="tcp:155293:2"/>
+            <head>A true relation of ſome no<g ref="char:EOLhyphen"/>table paſſages faithfully performed on the Coaſts of <hi>England</hi> and <hi>Ireland. Briſtoll</hi> this 30. of <hi>Iune.</hi>
+            </head>
+            <opener>
+               <salute>HONORABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His acquainting you of my pro<g ref="char:EOLhyphen"/>ſeedings ſince the 20. of my being then ſent to <hi>Dublin,</hi> by order from the Lord <hi>Inchequinie,</hi> to the Lord <hi>Marqueſſe,</hi> after ſafe Arrivall at <hi>Dublin,</hi> remained foure dayes and could have no diſpatch where by to returne, for the <hi>Marqueſſe</hi> did dayly expect the Lord <hi>Taffe</hi> with three other Rebells from <hi>Kilkency,</hi> I remained till they came, then could have no diſpatch before a Packert came from the <hi>King,</hi> thereupon I went to them to the end to ſeize upon the Packett when it came, likewiſe to take the foreſaid Rebells as they paſt over for the better accompliſhing, I kept the middle Channell and on the Coaſt of Wales, firſt I chaſt the Poſt Barke, and he heaved the Packet over board, for which I queſtioned him, he ſaid he did ac<g ref="char:EOLhyphen"/>cording to expreſſe order, the ſeaventh of <hi>Iune</hi> I gave chaſe to two ſhips which I found to be prizes taken by a <hi>Dunkerke</hi> to the Northward of <hi>Scotland</hi> the one
+<pb n="2" facs="tcp:155293:3"/>was above 200. Tunnes deepe laden, her I burnt, the other I chaſt a ſhore upon the Rockes an Engliſh mile to the Southward of <hi>Wickloe head</hi> being Laden with <hi>Tarr, Traine,</hi> and <hi>Fiſh,</hi> and ſaved two of her men, by that time I had don with getingout ſome Pillage there comes about the head a <hi>Dunkerke</hi> of 16. Gunns and gave us chaſe, leave him we could not, and ſo ex<g ref="char:EOLhyphen"/>pected him, with the intent to make our party good in entering, I proteſt he would not come within ſhot, and claps by a wind and ſtoud for <hi>Arckeloe</hi> being hard by him, we followed him in two Fatham water, then I came for <hi>Milford</hi> to tallow a new, when I came to Sea I tooke foure prizes, whereof two Welch men, one Saint Tiues man of 80. odd tunnes laden with Coales and had ſome few Armes, with two Gunnes, three Murtherers, and thirtie men, alſo I tooke ano<g ref="char:EOLhyphen"/>ther burthen a hundred Tunes laden with Coales, ſould the Malignants foure Gunns and diſcharged his lading of ſalt he is not come in here yet.</p>
+            <p>I will to my life helpe you in this the cauſe of God, craving pardon for this my bordneſſe, humbly deſire<g ref="char:EOLhyphen"/>ing to excuſe haſt, and a Munday God willing I will write concerning paſſages in <hi>Wales</hi> and doe reſt.</p>
+            <closer>
+               <signed>
+                  <hi>Your honours ſervant moved ever faithfull to this cauſe.</hi> Tho. Perlunkett.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Not forgeting if I had a Commisſion to prejudice Papiſts Malignants in VVales, and Ireland I would with ſuch a Commisſion doe much more then I have done.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:155293:3"/>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Nd worthy Friend, theſe ſerves onely to give you notice that about the one and twentieth of <hi>May,</hi> my Lord Ge<g ref="char:EOLhyphen"/>nerall ſent mee and Captaine Hill to the Weſt parts to gather intelligence of the State of the County of <hi>Deavon</hi> till his Lordſhip came, ſo comming into <hi>Torbay</hi> the 24. ſad advice from <hi>Dartmouth;</hi> that <hi>Exeter</hi> was be<g ref="char:EOLhyphen"/>ſieged, &amp; required preſent accommodation to ſuppres the River, that day I met with Captaine <hi>Peters</hi> of <hi>Ply<g ref="char:EOLhyphen"/>mouth</hi> in the <hi>Iohn,</hi> which was ſent to their aſſiſtance by the requeſt of my Lord <hi>Stamford<g ref="char:punc">▪</g>
+               </hi> The 25. came in the tenth <hi>Whelpe</hi> and Captaine <hi>Cranch</hi> of <hi>Plymouth</hi> in the <hi>Abraham,</hi> ſo I ſent to <hi>Dartmouth</hi> for Captaine <hi>Tirpin</hi> in the <hi>Cat</hi> who came to us the 26. ſo the 27. before day we all weighed, and went into the <hi>Bay</hi> of <hi>Apſam,</hi> I ſent in Captaine <hi>Cranch,</hi> and three boates mand into <hi>Tinmouth</hi> to fetch a barke out, which was carried in there by the <hi>Falmouth Frigot,</hi> which Captaine <hi>Iour<g ref="char:EOLhyphen"/>daine</hi> tooke, which is effected without loſſe of blood, though faced with ſome 300. horſe as they ſay.</p>
+            <p>That ſame Tyde ſent Captaine <hi>Hill,</hi> Captaine <hi>Tir<g ref="char:EOLhyphen"/>pin</hi> and Captaine <hi>Peters</hi> of <hi>Plymouth</hi> over <hi>Exmouth</hi> bar, who have ſeized upon their two Ships, one whereof was ready fitted for a man of War bound to the Sea. The 28. about 9. of the clocke all five under ſayle com<g ref="char:EOLhyphen"/>ming
+<pb n="4" facs="tcp:155293:4"/>away, but the winde tooke them ſhort on the Bar, ſo onely Captaine <hi>Hill</hi> got out, but the other foure were forced backe, and I hope this mor<g ref="char:EOLhyphen"/>ning will come all out they had much oppoſi<g ref="char:EOLhyphen"/>tion, foure ſmall gunnes planted at <hi>Exmast</hi> ſide upon the banke or red clift to the Eaſt of the Church, and two planted at <hi>Star Croſse,</hi> and plaid very hot, but laſt night not any man loſt one drop of blood, onely one of Captaine <hi>Peters</hi> men bruiſed in the backe with one of their great ſhott out of their ſmall Ordnance, they had made a worke at paſſage point on the Weſt ſide upon the ſand, but had brought no gunne in it, thought to have Maintained it by Muſqueteeres, but they ſoone forced it, and raced that downe againe, and ſo keepe it ſo long as they doe there remaine, I ſuppoſe 500. men with the aſſiſtance of <hi>Exeter</hi> would cleare that Harbour and cirquit, We much long for my Lords comming, things going well I hope no blame will be laid on us, for ſo preſuming, if other<g ref="char:EOLhyphen"/>wiſe muſt have patience to be ſenſured, we knowing a deſperate diſeaſe muſt have a deſperate cure, a Fleet in this Countrey would do much good, if there were no greater occaſion elſe where, the Countrey is waſt, the good people much diſcouraged, though our com<g ref="char:EOLhyphen"/>ming here hath put them in hart, and the advice of my Lords comming altogether revived them, and laſt night did arive into this Bay Captaine <hi>Dauck</hi> to give further advice of his comming by the firſt wind, in the meane time we ſhall doe the beſt good we can for the guard of this coaſt, or we have now got together ſixe men of War, theſe two comming for <hi>Exmouth,</hi> which I doubt not of this tyde with the other two Ships,
+<pb n="5" facs="tcp:155293:4"/>likewiſe this is all at preſent that I can advice, only a priſoner we have of Charge one <hi>Bureroft,</hi> had his man came to him yeſterday, and reports Somerſet ſhire is all fallen off from their obedience of King and Par<g ref="char:EOLhyphen"/>liament, and now ſtand all for the Aray, and ſaith Sir <hi>Iohn Stowell,</hi> and my Lord <hi>Paulett</hi> hath ſent 1500. to the asſiſtance of the ſiege againſt <hi>Exeter,</hi> and that Hopton hath got forces enough to go and beſiege <hi>Briſtow,</hi> and hath already taken <hi>Bath</hi> and <hi>Wells</hi> which I ſcarce beleeve.</p>
+            <p>Here is in <hi>Torbay</hi> Mr. <hi>Phillips</hi> Mr. <hi>Enſon</hi> with di<g ref="char:EOLhyphen"/>vers others going for New-England to the number of 8. ſayle.</p>
+            <p>This Countie is ſo fallen off in generall that the ve<g ref="char:EOLhyphen"/>ry Fiſher boats are as cautious to come neere us, as though wee were Turks, and becauſe they ſee they cannot goe to Sea but wee muſt ſpeake with them, they will not goe at all, except they can ſteale by us without ſeeing them.</p>
+            <p>I have not elſe but my prayers to God for the pre<g ref="char:EOLhyphen"/>ſervation and ſafety of this kingdome in generall, and of freinds in perticuler, doe take leave, wiſhing your unwearied paines may bee rewarded with good ſuc<g ref="char:EOLhyphen"/>ceſſes here, and happineſſe hereafter, doe reſt your Servant.</p>
+            <closer>
+               <signed>Robert Moulton.</signed>
+               <dateline>
+                  <hi>From abord his Majeſties Shipp</hi> Swiftſure Turbay <date>
+                     <hi>this</hi> 29. Iune 1643.</date>
+               </dateline>
+               <pb n="6" facs="tcp:155293:5"/>
+            </closer>
+            <postscript>
+               <p>THe laſt day wee tooke up a litle boate with three men in her, little bigger then to cary them, which came runing from thence out of Captain <hi>Iones,</hi> which came from <hi>Brest,</hi> and brought <hi>Poulehill</hi> and all his runawayes, and ſaith here was none they tooke by betraying, but might have taken them if they would have given the onſett, and ſo ſayes it with them all, not one of-tenn but forced to goe againſt their will, ſaith Captaine <hi>Derrie</hi> an Iriſh man was chaſt in at low water, and bilged his Ship but is repaired and come againe to <hi>Falmouth,</hi> and ready is making to goe to Sea.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <date>
+                  <hi>Iuly,</hi> the 7. 1613.</date>
+            </opener>
+            <p>Imprimater.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
